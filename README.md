@@ -7,7 +7,7 @@
 PHP 8 Version 
 Mysql 8 Version
 Install PHP required Modules
-Apache File
+Apache2
 ```
 
 ## Create a databases 
