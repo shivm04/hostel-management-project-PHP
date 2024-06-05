@@ -1,8 +1,8 @@
-# Clone this repository
+## Clone this repository
 ```
-  git clone 
+  git clone https://github.com/shivm04/hostel-management-project-PHP.git
 ```
-# Required Packages 
+## Required Packages 
 ```
 PHP 8 Version 
 Mysql 8 Version
@@ -10,7 +10,7 @@ Install PHP required Modules
 Apache File
 ```
 
-# Create a databases 
+## Create a databases 
 ```
   DB name :- hostel
   CREATE DATABASE hostel;
@@ -20,9 +20,10 @@ Apache File
 
 ```
 
-# Change the database Credentials in the configuration file 
+## Change the database Credentials in the configuration file 
+   /
 
-# Create a config file for the apache to host our website 
+## Create a config file for the apache to host our website 
 
 ```
 <VirtualHost *:80>
@@ -48,17 +49,7 @@ Apache File
 
 ```
 
-# 
+## Login details
 
-1. Download and Unzip the file on your local system.
-2. copy hostel folder Put this folder inside xampp/htdocs/ .
-3. Database Configuration
-
-Open PHPMyAdmin
-Create a Database hostel.
-Import database hostel.sql
-Open Your browser put inside browser “http://localhost/hostel/”
-Login Details
-To Login as admin put inside browser “http://localhost/hostel”
 Login Details for admin : admin/Test@1234
 Login Details for user : test@gmail.com/Test@123
