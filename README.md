@@ -21,7 +21,10 @@ Apache2
 ```
 
 ## Change the database Credentials in the configuration file 
-   /
+```
+   hostel-management-project-PHP/hostel/includes
+   hostel-management-project-PHP/hostel/admin/includes
+```
 
 ## Create a config file for the apache to host our website 
 
