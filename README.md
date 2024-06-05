@@ -2,6 +2,7 @@
 ```
   git clone https://github.com/shivm04/hostel-management-project-PHP.git
 ```
+
 ## Required Packages 
 ```
 PHP 8 Version 
@@ -18,6 +19,12 @@ Apache2
   Import the hostel.sql file into the hostel database
   mysql -u root -p hostel < hostel.sql
 
+```
+
+## Chnage the permission of the files 
+```
+chmod -R 755 hostel-management-project-PHP/ hostel-management-project-PHP/*
+chown -R www-data:root hostel-management-project-PHP/* hostel-management-project-PHP/
 ```
 
 ## Change the database Credentials in the configuration file 
@@ -53,6 +60,7 @@ Apache2
 ```
 
 ## Login details
-
+```
 Login Details for admin : admin/Test@1234
 Login Details for user : test@gmail.com/Test@123
+```
