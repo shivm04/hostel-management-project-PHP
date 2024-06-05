@@ -1,4 +1,8 @@
-Installation Steps(Configuration)
+# Required Packages 
+```
+PHP 8 Version 
+Mysql 8 Version 
+```
 
 1. Download and Unzip the file on your local system.
 2. copy hostel folder Put this folder inside xampp/htdocs/ .
